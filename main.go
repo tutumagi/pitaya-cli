@@ -24,8 +24,8 @@ import (
 	"flag"
 	"sync"
 
-	"github.com/topfreegames/pitaya/client"
-	"github.com/topfreegames/pitaya/session"
+	"github.com/tutumagi/pitaya/client"
+	"github.com/tutumagi/pitaya/session"
 )
 
 var (

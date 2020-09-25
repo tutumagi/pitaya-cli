@@ -26,7 +26,7 @@ import (
 	"strings"
 
 	"github.com/sirupsen/logrus"
-	"github.com/topfreegames/pitaya/client"
+	"github.com/tutumagi/pitaya/client"
 )
 
 func connect(logger Log, addr string, onMessageCallback func([]byte)) (err error) {
